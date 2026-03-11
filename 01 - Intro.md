@@ -79,7 +79,7 @@ Enumeration: happens usually in intranet
 	5. Installation - installing malicious application on target 
 	6. Command and control - creating C2 channel to send data back and fourth
 	7. Actions and objectives - Performing actions to complete mission, carry out activities to steal or malform data, set up bot machines.
-	![[Pasted image 20251221190622.png]]
+	
 Adversary behavioral identification - identifying attackers common methods.
 TTPs - 
 Tactics - how threat actor operates during different phases of an attack, APT
@@ -91,7 +91,7 @@ procedures - a sequence of actions
 	Network indicators: urls, domains and ip addrs.
 	host based indicators: speciic filenames, hashes registry keys
 	behavioral indicators: powershell or remote command executions
-	![[Pasted image 20251221191048.png]]
+
 	
 **Mitre ATT&CK framework**
 	nonprofit free-to-use framework - systematically categorize adversary behavior
@@ -140,7 +140,6 @@ Information assurance (IA) - IA starts with policy, ends with people, and everyt
 	Plan → Design → Find problems → Get resources → Plan fixes → Apply controls → Verify → Train people
 
 Continual/Adaptive security strategy:
-![[Pasted image 20251221194558.png]]
 
 RISK = threats x vulnerabilities x impact
 RISK = threat x vulnerability x asset value
