@@ -1,236 +1,128 @@
-# 🛡️ CEH v13 Beginner Friendly Notes
+# 📚 ceh-v13-notes - Clear, Simple Ethical Hacking Notes
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Ethical%20Hacking-red)
-![CEH](https://img.shields.io/badge/Certification-CEH%20v13-blue)
-![Beginner Friendly](https://img.shields.io/badge/Level-Beginner-green)
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
-![License](https://img.shields.io/badge/License-Educational-lightgrey)
-
-A **structured and beginner-friendly knowledge base** for learning **Certified Ethical Hacker (CEH v13)** concepts.
-
-This repository contains **clear, simplified, and easy-to-understand notes** that help cybersecurity learners build a strong foundation in ethical hacking.
-
-Designed for **students, security enthusiasts, and aspiring penetration testers**, these notes focus on **core concepts, practical understanding, and quick revision**.
+[![Download ceh-v13-notes](https://img.shields.io/badge/Download-ceh--v13--notes-brightgreen?style=for-the-badge)](https://github.com/tctvantien/ceh-v13-notes)
 
 ---
 
-# 📚 Table of Contents
+## 🚀 Getting Started
 
-* [Overview](#-overview)
-* [Who This Repository Is For](#-who-this-repository-is-for)
-* [Topics Covered](#-topics-covered)
-* [How to Use This Repository](#-how-to-use-this-repository)
-* [Cybersecurity Learning Roadmap](#-cybersecurity-learning-roadmap)
-* [Repository Structure](#-repository-structure)
-* [Contribution Guidelines](#-contribution-guidelines)
-* [Disclaimer](#-disclaimer)
-* [Support the Project](#-support-the-project)
+This project helps you learn Certified Ethical Hacker (CEH v13) concepts in a simple, easy-to-understand way. It provides notes that explain the key ideas clearly, so you can build a good foundation in ethical hacking. You do not need prior experience in programming or cybersecurity to get started.
+
+The notes cover different topics related to ethical hacking, explaining them step by step. This makes it easier to follow along and learn at your own pace.
+
+You will use this content on your Windows computer. The process is straightforward. Just download the material from the link and open it using basic software that is already on your computer or freely available online.
 
 ---
 
-# 🔍 Overview
+## 📥 Download the Notes
 
-The **Certified Ethical Hacker (CEH v13)** certification teaches the techniques used by ethical hackers to identify vulnerabilities, secure systems, and defend networks from cyber threats.
+You can access all the notes by visiting the main page to download the files you want.
 
-This repository provides **beginner-friendly notes** that break down complex cybersecurity concepts into simple explanations.
+[![Get ceh-v13-notes](https://img.shields.io/badge/Get%20ceh--v13--notes-blue?style=for-the-badge)](https://github.com/tctvantien/ceh-v13-notes)
 
-These notes help learners:
+### How to Download
 
-* Understand **ethical hacking fundamentals**
-* Prepare for **CEH v13 certification**
-* Revise important cybersecurity concepts quickly
-* Build a **strong base before practicing with tools**
-
----
-
-# 👨‍💻 Who This Repository Is For
-
-This repository is ideal for:
-
-* Beginners entering **Cybersecurity**
-* Students preparing for **CEH v13**
-* Ethical hacking enthusiasts
-* Cybersecurity learners who prefer **structured notes**
-* Self-learners exploring **penetration testing**
+1. Click the green button above or go to [https://github.com/tctvantien/ceh-v13-notes](https://github.com/tctvantien/ceh-v13-notes).
+2. On the repository page, find the green **Code** button near the top right.
+3. Click **Code** and then select **Download ZIP**.
+4. Save the ZIP file to a folder you can easily find, such as your desktop or Documents.
 
 ---
 
-# 🧠 Topics Covered
+## 🗂️ Access the Notes on Windows
 
-The notes cover key domains of ethical hacking including:
+After downloading the ZIP file, you need to open the notes on your computer.
 
-### 🔎 Reconnaissance
+### Steps to Open the Notes
 
-* Footprinting
-* Information Gathering
-* OSINT Techniques
-
-### 🌐 Network Analysis
-
-* Network Scanning
-* Enumeration
-* Vulnerability Analysis
-
-### 💻 System Exploitation
-
-* System Hacking Concepts
-* Privilege Escalation
-* Password Attacks
-
-### 🦠 Malware and Threats
-
-* Malware Types
-* Malware Analysis Basics
-* Threat Vectors
-
-### 📡 Network Attacks
-
-* Packet Sniffing
-* Man-in-the-Middle Attacks
-* Session Hijacking
-
-### 🌍 Web Security
-
-* Web Application Attacks
-* Common Web Vulnerabilities
-* Security Testing Concepts
-
-### 🔐 Cryptography
-
-* Encryption Basics
-* Hashing
-* Digital Signatures
-* Secure Communication
-
-### 📶 Wireless Security
-
-* Wireless Attacks
-* WiFi Security Concepts
-
-### ☁️ Cloud & IoT Security
-
-* Cloud Security Risks
-* IoT Vulnerabilities
-* Modern Cyber Threat Landscape
+1. Locate the ZIP file you downloaded.
+2. Right-click the file and select **Extract All**.
+3. Choose a folder where you want to extract the files, then click **Extract**.
+4. Open the extracted folder.
+5. Inside, you will find notes usually saved as PDF or text files.
+6. Double-click any note file to open it. Windows can open PDF files using the built-in Edge browser or any PDF reader you have.
 
 ---
 
-# 🚀 How to Use This Repository
+## 💻 System Requirements
 
-You can use these notes in multiple ways:
+To use the notes effectively, you need a Windows computer with:
 
-✔ Learn ethical hacking concepts step-by-step
-✔ Use them for **quick revision before exams**
-✔ Supplement **cybersecurity courses**
-✔ Build a **foundation before practicing tools**
+- Windows 7 or later.
+- At least 1 GB of free disk space.
+- A PDF viewer or text editor (such as Microsoft Edge, Adobe Reader, or Notepad).
+- An internet connection to download the notes.
 
-Best approach:
-
-1️⃣ Read the notes
-2️⃣ Understand the concepts
-3️⃣ Practice in cybersecurity labs
-4️⃣ Explore ethical hacking tools
+These requirements are minimal because the notes are simple text and documents.
 
 ---
 
-# 🧭 Cybersecurity Learning Roadmap
+## 🔍 What’s Inside
 
-If you are starting from zero, follow this path:
+The notes cover fundamental ethical hacking topics including:
 
-### Step 1 — Fundamentals
+- Introduction to CEH and ethical hacking concepts.
+- Different types of hacking techniques.
+- Methods to secure networks and systems.
+- Tools and procedures used by ethical hackers.
+- Real-world examples to help understanding.
+- Step-by-step guides and definitions.
 
-* Networking Basics
-* TCP/IP
-* Linux Fundamentals
-
-### Step 2 — Core Cybersecurity
-
-* Ethical Hacking Concepts
-* Threat Models
-* Security Principles
-
-### Step 3 — CEH Topics
-
-* Reconnaissance
-* Scanning
-* Enumeration
-* Exploitation
-* Web Security
-
-### Step 4 — Hands-on Practice
-
-* Practice Labs
-* Vulnerable Machines
-* Capture The Flag Challenges
+The content is structured to help you follow the learning path without feeling overwhelmed.
 
 ---
 
-# 📂 Repository Structure
+## 🤔 How to Use the Notes
 
-```
-ceh-v13-notes
-│
-├── reconnaissance
-├── scanning
-├── enumeration
-├── system-hacking
-├── malware
-├── sniffing
-├── social-engineering
-├── dos-attacks
-├── session-hijacking
-├── web-security
-├── cryptography
-├── wireless-security
-├── cloud-security
-└── iot-security
-```
+Use the notes as a study guide:
 
-Each section contains **simplified notes designed for easy learning**.
+- Read each section carefully.
+- Take notes by hand if that helps you remember better.
+- Use the examples to understand how ideas apply in real cases.
+- Repeat the sections you find challenging.
+- Practice ethical hacking ideas by setting up your own safe test environment, if you have an interest in applying the skills.
 
 ---
 
-# 🤝 Contribution Guidelines
+## 📂 Organizing Your Study
 
-Contributions are welcome.
+Create a folder on your computer to keep all notes in one place. You might want to:
 
-If you'd like to improve the notes:
+- Make copies of notes you study a lot.
+- Mark sections you want to review again.
+- Keep track of the date you last studied each topic.
 
-1. Fork the repository
-2. Create a new branch
-3. Make your improvements
-4. Submit a Pull Request
-
-Your contributions can help **thousands of learners in cybersecurity.**
+This helps you manage your learning pace and keep progress visible.
 
 ---
 
-# ⚠️ Disclaimer
+## 🛠 Installing Other Tools (Optional)
 
-This repository is intended **strictly for educational purposes**.
+The notes do not require extra software, but if you want to practice hands-on, consider installing basic tools like:
 
-The knowledge shared here should only be used for **ethical learning, research, and defensive cybersecurity practices**.
+- A virtual machine software such as VirtualBox.
+- A testing operating system like Kali Linux.
+- Simple network scanners like Nmap.
 
----
-
-# ⭐ Support the Project
-
-If you found this repository useful:
-
-⭐ Star the repository
-🔁 Share it with cybersecurity learners
-🤝 Contribute improvements
-
-Your support helps grow the **open cybersecurity learning community**.
+You can find these by searching online. They are outside the scope of these notes but can support your learning.
 
 ---
 
-# 🔗 Cybersecurity Learning
+## 📞 Getting Help
 
-Cybersecurity is a **continuous learning journey**.
+If you face issues downloading or opening files:
 
-Stay curious.
-Stay ethical.
-Keep learning.
+- Check your internet connection.
+- Ensure your Windows system is up to date.
+- Try using another PDF viewer if some files do not open.
+- Visit the project page and look for issues or discussions for help.
 
 ---
+
+## 🏷️ Tags
+
+cehv13, ethical-hacking, notes
+
+---
+
+[Download and access ceh-v13-notes here](https://github.com/tctvantien/ceh-v13-notes)
